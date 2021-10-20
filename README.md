@@ -10,16 +10,16 @@ This application will be used garage sale hosts and attendees wanting to be safe
 
 ## Use Cases
 
-**Title**: Host an online garage store
-**Actor**: The garage sale host
+**Title**: Host an online garage store <br />
+**Actor**: The garage sale host <br />
 **Scenario**: 
 1. The host sets the date and time of the garage sale
 2. The host uploads pictures of the items to be sold along with the price and description.
 3. The host posts the generated QR code around the neighbourhood.
 4. The host accesses information from their past garage sales from their account. 
 
-**Title**: Attend an online garage store
-**Actor**: The garage sale attendee
+**Title**: Attend an online garage store <br />
+**Actor**: The garage sale attendee <br />
 **Scenario**: 
 1.  The attendee views items sold at the garage sale with the QR code.
 2.  The attendee purchases the items.
